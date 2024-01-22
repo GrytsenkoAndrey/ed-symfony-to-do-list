@@ -1,5 +1,7 @@
 # ed-symfony-to-do-list
 
+https://medium.com/@remysd/symfony-event-dispatcher-alias-the-pattern-observer-585a1141e7f6
+
 https://medium.com/@mounir.mouih/designing-fine-grained-independent-features-using-symfony-and-strategy-pattern-084a0740fa5d
 
 https://medium.com/@rcsofttech85/implementing-the-factory-method-design-pattern-in-symfony-b9547a002737
