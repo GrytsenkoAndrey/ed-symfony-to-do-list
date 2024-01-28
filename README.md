@@ -1,5 +1,7 @@
 # ed-symfony-to-do-list
 
+https://levelup.gitconnected.com/how-to-manage-tasks-with-the-symfony-scheduler-component-a-deep-dive-6a8c49df63b8
+
 https://medium.com/@remysd/symfony-event-dispatcher-alias-the-pattern-observer-585a1141e7f6
 
 https://medium.com/@mounir.mouih/designing-fine-grained-independent-features-using-symfony-and-strategy-pattern-084a0740fa5d
